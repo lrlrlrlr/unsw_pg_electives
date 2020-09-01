@@ -1,5 +1,11 @@
 # unsw_pg_electives
 UNSW选课指南
+## TODO
+- [ ] link for handbook/outline
+- [ ] is_adk
+- [ ] capacity情况 (需要爬虫实时数据)
+- [ ] pre-requisite
+
 
 ## T3最终课表
 | Code     | Course Title                                     | Units of Credit |
