@@ -1,12 +1,18 @@
 # unsw_pg_electives
 UNSW选课指南
 ## TODO
+### this md
 - [ ] link for handbook/outline
 - [ ] is_adk
 - [ ] capacity情况 (需要爬虫实时数据)
 - [ ] pre-requisite
-- [ ] UOC计算(毕业进度计算)
 
+### others
+- [ ] UOC计算(毕业进度计算)
+- [ ] 采集毕业评论
+
+### scopes
+- [ ] 覆盖CSE学院的所有课程, instead of COMP8543
 
 
 
