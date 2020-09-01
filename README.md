@@ -12,7 +12,7 @@ UNSW选课指南
 - [ ] 采集毕业评论
 
 ### scopes
-- [ ] 覆盖CSE学院的所有课程, instead of COMP8543
+- [ ] 覆盖CSE学院的所有课程, instead of 8543
 
 
 
