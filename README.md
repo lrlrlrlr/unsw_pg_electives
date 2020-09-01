@@ -5,6 +5,9 @@ UNSW选课指南
 - [ ] is_adk
 - [ ] capacity情况 (需要爬虫实时数据)
 - [ ] pre-requisite
+- [ ] UOC计算(毕业进度计算)
+
+
 
 
 ## T3最终课表
