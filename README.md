@@ -17,7 +17,7 @@ UNSW选课指南
 
 
 ## T3最终课表
-| Code     | Course Title                                     | Units of Credit |
+| Code     | Course Title                                     | Units of Credit | 
 |----------|--------------------------------------------------|-----------------|
 | COMP4121 | Advanced and Parallel Algorithms                 | 6               |
 | COMP4161 | Advanced Topics in Software Verification         | 6               |
@@ -53,28 +53,6 @@ UNSW选课指南
 | COMP9992 | Research Project B                               | 6               |
 | COMP9993 | Research Project C                               | 12              |
 
-## T3 - ADK
-
-| Code     | Course Title                                     | Units of Credit |
-|----------|--------------------------------------------------|-----------------|
-| COMP4121 | Advanced and Parallel Algorithms                 | 6               |
-| COMP4161 | Advanced Topics in Software Verification         | 6               |
-| COMP4418 | Knowledge Representation and Reasoning           | 6               |
-| COMP6445 | Digital Forensics                                | 6               |
-| COMP6448 | Security Engineering Masterclass                 | 6               |
-| COMP6714 | Information Retrieval and Web Search             | 6               |
-| COMP6733 | Internet of Things Experimental Design Studio    | 6               |
-| COMP6741 | Parameterized and Exact Computation              | 6               |
-| COMP6845 | Extended Digital Forensics and Incident Response | 6               |
-| COMP9243 | Distributed Systems                              | 6               |
-| COMP9418 | Advanced Topics in Statistical Machine Learning  | 6               |
-| COMP9434 | Robotic Software Architecture                    | 6               |
-| COMP9444 | Neural Networks and Deep Learning                | 6               |
-| COMP9517 | Computer Vision                                  | 6               |
-| COMP9900 | Information Technology Project                   | 6               |
-| COMP9991 | Research Project A                               | 6               |
-| COMP9992 | Research Project B                               | 6               |
-| COMP9993 | Research Project C                               | 12              |
 
 
 
